@@ -1,7 +1,3 @@
 text text text
 demo 1
 new
-text
-new commit
-and 
---------------------------
